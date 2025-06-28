@@ -30,15 +30,15 @@ Cheers to continual learning!
    
    [View Notebook](https://colab.research.google.com/drive/1NwOvzRBVZXlCmB-FfmEd1sCrl8ZYe3H1?usp=sharing)
 
-4. ### Top 250 Movies: IMDB
-   I scraped the IMDB website to get its top 250 movies, obtaining information such as the movie titles, genre(s), actors, etc and stored them in a DataFrame. After which, i exported the data in the CSV file formats.
+4. ### Top 25 Movies: IMDB
+   I scraped the IMDB website to get its top 25 movies, obtaining information such as the movie titles, genre(s), actors, etc and stored them in a DataFrame. After which, I exported the data in the CSV, TSV, and Excel file formats.
 
    [View Notebook](https://colab.research.google.com/drive/1xX1kFpEaF0apJAgb-kj-D2EOLiJBvM9t?usp=sharing)
 
 5. ### Scraping Country Details
-   Scraped a website containing a list of countries and their details, transformed the data into a DataFrame and exported it to Excel, CSV, and TSV file formats.
+   Scraped a website containing a list of countries and their details, transformed the data into a DataFrame and exported it to CSV, TSV, and Excel file formats.
    
-   [View Notebooks](https://colab.research.google.com/drive/1Fj9xyqNj6HwpM48fGRgROpZ0v-T1G5xo?usp=sharing)
+   [View Notebook](https://colab.research.google.com/drive/1Fj9xyqNj6HwpM48fGRgROpZ0v-T1G5xo?usp=sharing)
    
    
    
