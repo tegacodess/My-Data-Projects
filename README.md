@@ -18,8 +18,10 @@ Cheers to continual learning!
 1. ### Loan Risk Prediction 
     A Binary Classification task aiming to find and predict a customers default risk in loan repayment based on base factors and trends.
    Trained five models and prioritizing recall, chose the best model.
+
    [Repo]()
-   [Live Project]()
+
+   [Live Project](https://loan-risk-predictor-vq9dqvzkmu6bm6jz86usxh.streamlit.app/)
 2. ### Predicting Calorie Burn
    Trained four regression models to predict how much calories an individual burns off during exercise. Afterwhich i evaluated the models and chose the best model for this regression task. Then, i deployed the chosen model on Streamlit so it can accept user input and predict exercise.
 
