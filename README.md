@@ -19,7 +19,7 @@ Cheers to continual learning!
     A Binary Classification task aiming to find and predict a customers default risk in loan repayment based on base factors and trends.
    Trained five models and prioritizing recall, chose the best model.
 
-   [Repo]()
+   [Repo](https://github.com/tegacodess/loan-risk-predictor)
 
    [Live Project](https://loan-risk-predictor-vq9dqvzkmu6bm6jz86usxh.streamlit.app/)
 2. ### Predicting Calorie Burn
